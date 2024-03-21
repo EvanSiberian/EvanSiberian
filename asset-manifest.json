@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.cddbb9f6.js",
-    "index.html": "/index.html",
-    "main.cddbb9f6.js.map": "/static/js/main.cddbb9f6.js.map"
+    "main.js": "/EvanSiberian/static/js/main.cddbb9f6.js",
+    "index.html": "/EvanSiberian/index.html",
+    "main.cddbb9f6.js.map": "/EvanSiberian/static/js/main.cddbb9f6.js.map"
   },
   "entrypoints": [
     "static/js/main.cddbb9f6.js"
